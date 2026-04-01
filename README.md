@@ -1,6 +1,9 @@
 # AI-Agents-vs-FAMILY-GUY
 
+### A multi-agent system that imitates the “Family Guy writing process” as depicted in the South Park parody.
+
 //  Built during the Google & Kaggle 5-Day AI Agents Intensive Bootcamp (2025). To view Kaggle Notebook: https://www.kaggle.com/code/damlapart/ai-agents-vs-family-guy/
+
 
 ### Problem Statement:
 This project is inspired by a famous South Park gag that satirizes Family Guy’s signature flashback jokes. In Family Guy, Peter Griffin constantly jumps into absurd, rapid-fire memories involving random celebrities, strange objects, or bizarre settings. The humor comes from the surreal disconnect between the main scene and the flashback — and the chaotic logic used to produce it.
